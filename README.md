@@ -2,7 +2,7 @@
 
 > 💬 **欢迎 [Issue](https://github.com/Giveupmoon/OpenClash_Overwrite/issues) 提出您的建议和想法！**  
 > 🧩 适配版本：**OpenClash v0.47.006 及以上**  
-> 🧱 建议新装 **OpenClash** 用户使用，无需修改任何 LuCI 设置  
+> 🧱 建议新装 **OpenClash** 用户使用，请勿修改任何 LuCI 设置  
 
 ---
 
@@ -12,7 +12,6 @@
   <a href="https://github.com/vernesong/OpenClash" target="_blank">
     <img src="https://img.shields.io/badge/OpenClash-v0.47.006%2B-blue?style=for-the-badge&logo=openwrt" />
   </a>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
 ---
